@@ -23,7 +23,8 @@ The transactions data is also scanned for expenses related to movies, restaurant
   
   Sample Output
 -----------------------
-Enter the abs path to the folder name (with slashes escaped)
+Enter the abs path to the folder name
+
 C:\\Users\\Ajith\\Downloads\\rit-challenge-master\\rit-challenge-master\\transaction-data
 
 File Name user-0.csv
